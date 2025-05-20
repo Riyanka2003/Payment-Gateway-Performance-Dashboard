@@ -23,10 +23,6 @@ This project showcases a **real-time performance dashboard** for major payment g
 ├── PaymentGatewayPerformance.csv # Alternate CSV version
 └── README.md # Project details
 
-mathematica
-Copy
-Edit
-
 ## 🛠 How to Use
 1. Open `PaymentGatewayPerformance.xlsx` or `.csv` in Power BI.
 2. Import the data and name the table `PaymentData`.
